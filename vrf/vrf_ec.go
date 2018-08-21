@@ -44,7 +44,7 @@ import (
 	"hash"
 	"math/big"
 
-	"github.com/ontio/ontology-crypto/ec"
+	"github.com/Splyse/ontology-crypto/ec"
 )
 
 var (

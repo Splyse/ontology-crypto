@@ -25,10 +25,10 @@ import (
 	"errors"
 	"hash"
 
-	"github.com/ontio/ontology-crypto/ec"
-	"github.com/ontio/ontology-crypto/keypair"
-	"github.com/ontio/ontology-crypto/sm3"
-	"github.com/ontio/ontology/common/log"
+	"github.com/Splyse/ontology-crypto/ec"
+	"github.com/Splyse/ontology-crypto/keypair"
+	"github.com/Splyse/ontology-crypto/sm3"
+	"github.com/Splyse/ontology/common/log"
 )
 
 var (

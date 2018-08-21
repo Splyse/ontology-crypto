@@ -26,8 +26,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ontio/ontology-crypto/ec"
-	"github.com/ontio/ontology-crypto/sm2"
+	"github.com/Splyse/ontology-crypto/ec"
+	"github.com/Splyse/ontology-crypto/sm2"
 )
 
 func TestKeyPairGeneration(t *testing.T) {

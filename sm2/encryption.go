@@ -32,7 +32,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ontio/ontology-crypto/sm3"
+	"github.com/Splyse/ontology-crypto/sm3"
 )
 
 const DIGESTLEN = 32

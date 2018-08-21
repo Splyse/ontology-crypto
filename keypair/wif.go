@@ -30,7 +30,7 @@ import (
 	"math/big"
 
 	base58 "github.com/itchyny/base58-go"
-	"github.com/ontio/ontology-crypto/ec"
+	"github.com/Splyse/ontology-crypto/ec"
 )
 
 func Key2WIF(key PrivateKey) ([]byte, error) {
